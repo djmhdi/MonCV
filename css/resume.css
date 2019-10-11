@@ -4,5 +4,31 @@ html, button, input, select, textarea {
 html{ 
     font-size: 1em;
     line-height: 1.4;
-    background-color: #a79797;
+    background-color: #c0bdcb;
+}
+div#wrapper{
+    max-width: 900px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#photo-profil{
+    border : 1px solid  #ccc;
+    border-radius: 3px;
+    float : right
+}
+div#wrapper{
+    max-width: 900px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+header img{
+    border : 1px solid  #ccc;
+    border-radius: 3px;
+    float : right;
 }
